@@ -5,3 +5,4 @@
 # Danh sách thành viên
 
 1. Trần Minh Giàu
+2. Nguyễn Thanh Chương
